@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiStoreApp", "..\HiStoreApp\HiStoreApp.csproj", "{D9480925-76FB-498B-923E-779AAA3F1B8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9480925-76FB-498B-923E-779AAA3F1B8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9480925-76FB-498B-923E-779AAA3F1B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9480925-76FB-498B-923E-779AAA3F1B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9480925-76FB-498B-923E-779AAA3F1B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C57AE2FC-D4E5-484D-A51A-C8EC8540DD79}
+	EndGlobalSection
+EndGlobal
